@@ -1,0 +1,132 @@
+[
+  {
+    "key": "award",
+    "name": "Award",
+    "file": "perk-award.png",
+    "width": 100,
+    "height": 100,
+    "mode": "RGBA",
+    "sha256": "54296d00f613bd688602c2a4849240bbdb09e02f2fde5568e7e67ec9c724de6f",
+    "previousSource": "https://static.wikia.nocookie.net/nitro-type/images/9/9f/Award-perk.png/revision/latest/scale-to-width-down/100?cb=20260711155812"
+  },
+  {
+    "key": "banner",
+    "name": "Banner",
+    "file": "perk-banner.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "sha256": "1bcb73d1a8f8b4f97c8c5408f0e3a926051b5e7ada44612dfb8e8fc408853386",
+    "previousSource": "https://nitrotype.info/assets/images/seasons/wwg-perk.webp"
+  },
+  {
+    "key": "bubbles",
+    "name": "Bubbles",
+    "file": "perk-bubbles.png",
+    "width": 100,
+    "height": 100,
+    "mode": "RGBA",
+    "sha256": "f55e86266b1d07b27215e05c6fc1dd81f32a3bf2cec0b69e7c2a4a9c6c0e3de0",
+    "previousSource": "https://static.wikia.nocookie.net/nitro-type/images/3/36/Bubbles-perk.png/revision/latest/scale-to-width-down/100?cb=20260711155814"
+  },
+  {
+    "key": "butterflies",
+    "name": "Butterfly Kaleidoscope",
+    "file": "perk-butterflies.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "sha256": "d6e8a1e6a44b65457f7b70386fe4cec82a3a8bfaea04f1999e915618b0dc136e",
+    "previousSource": "https://nitrotype.info/assets/images/seasons/butterflies-perk.webp"
+  },
+  {
+    "key": "leaves",
+    "name": "Maple Blaze",
+    "file": "perk-leaves.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "sha256": "1c50a4714da066c87ce84735a819fda8c96dd42b6bf0ea77832c3f6afba49d97",
+    "previousSource": "https://nitrotype.info/assets/images/seasons/twilight-harvest-perk.webp"
+  },
+  {
+    "key": "neo_rockets",
+    "name": "Pulsar Thrusters",
+    "file": "perk-neo_rockets.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "sha256": "d68e11842b7e57d58a42b13f04f8d9184f2be9eab14e05355b46740d101b3a02",
+    "previousSource": "https://nitrotype.info/assets/images/seasons/neo-nitro-perk.webp"
+  },
+  {
+    "key": "pegasus",
+    "name": "Pegasus",
+    "file": "perk-pegasus.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "sha256": "a437ed874ce3c05f4ef0dddde9e408977745717c6a69dc634a7802762243f2a3",
+    "previousSource": "https://nitrotype.info/assets/images/seasons/nitrodyssey-perk.webp"
+  },
+  {
+    "key": "pencil",
+    "name": "Rocket Pencils",
+    "file": "perk-pencil.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "sha256": "a3f99340e56a150126ec451c726a7ea5f96e3e8fd7cc03e1b802b85c9ca2a783",
+    "previousSource": "https://nitrotype.info/assets/images/seasons/bts-perk.webp"
+  },
+  {
+    "key": "reindeer",
+    "name": "Reindeers",
+    "file": "perk-reindeer.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "sha256": "5d5bed5654b48486f3a64fd65effebb0f4e6dfb635835c39f2305310c85586fd",
+    "previousSource": "https://nitrotype.info/assets/images/seasons/xmaxx-2025-perk.webp"
+  },
+  {
+    "key": "slipstream",
+    "name": "Slipstream",
+    "file": "perk-slipstream.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "sha256": "d76afaa7f370aac6337cca061fcb0c27042b22b2e35a6777bab0fcce649c853a",
+    "previousSource": "https://nitrotype.info/assets/images/seasons/vv-perk.webp"
+  },
+  {
+    "key": "spacebattle",
+    "name": "Space Battle",
+    "file": "perk-spacebattle.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "sha256": "5665367f6934878b219acf24f2fc7c108e064f334fd145a4b4dcdc7f409053c5",
+    "previousSource": "https://nitrotype.info/assets/images/seasons/nitro-arcade-vol-3-perk.webp"
+  },
+  {
+    "key": "sparkle",
+    "name": "Sparkle",
+    "file": "perk-sparkle.png",
+    "width": 100,
+    "height": 100,
+    "mode": "RGBA",
+    "sha256": "e9e309146ef4b52d51f588562ba740d5232b8cb68ac274bb5dc50697fbecbed4",
+    "previousSource": "https://static.wikia.nocookie.net/nitro-type/images/6/65/Sparkle-perk.png/revision/latest/scale-to-width-down/100?cb=20260711155817"
+  },
+  {
+    "key": "stampede",
+    "name": "Stampede",
+    "file": "perk-stampede.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA",
+    "sha256": "4ea87c39abd921185b180b3b5ddb923c90cbcad809d5df5a55ee94de611ddc65",
+    "previousSource": "https://nitrotype.info/assets/images/seasons/schoolyard-perk.webp"
+  }
+]
